@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Roboto:ital,wght@0,300;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: #231F20;
+}
+
+
+.container {
+    max-width: 700px;
+    height:45rem;
+    margin: 20px auto;
+    background-color: burlywood;
+    background-size:contain;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url(./assets/churrasco-carton.jpg);
+}
+
+
+.titulo {
+    text-align: center;
+    margin-top: 44px;
+    color: aliceblue;
+    text-shadow: 10px 10px 20px  black;
+    font-weight: bold;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 2rem;
+}
+
+
+input{
+  
+   
+    border-right: 4px outset tomato;
+    border-radius: 5px 0px 5px 10px;
+}
+
+
+.adultos {
+
+    width: 70%;
+    padding: 12px;
+    margin: 35px 18px -15px 105px;
+    
+
+}
+
+.criancas {
+
+    width: 70%;
+    padding: 12px;
+    margin: 20px 18px -15px 105px;
+    
+
+}
+
+.duracao {
+    margin: 20px 18px -15px 105px;
+    width: 70%;
+    padding: 12px;
+}
+
+::placeholder {
+    color: grey;
+    text-align: center;
+    box-shadow: 30px 30px 30px tomato;
+    
+}
+
+textarea:focus, input:focus {
+    box-shadow: 30px 30px 30px tomato;
+    outline: 0;
+    font-family: 'Love Ya Like A Sister', cursive;
+ 
+
+}
+
+
+.calcular {
+    display: block;
+    margin: 30px auto;
+    font-size: 1rem;
+    padding: 0.6rem;
+    color: white;
+    background-color: rgb(209, 97, 77);
+    border-radius: 5%;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-shadow: 5px 5px 5px black;
+}
+
+
+.resultado {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: goldenrod;
+    font-weight: bold;
+    text-shadow: 10px 10px 10px black;
+}
