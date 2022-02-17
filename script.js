@@ -61,7 +61,7 @@ function calcular() {
     // 11 - Dentro da template string:  Na quantidade total de cerveja colocamos a variável divida por 355, para transformar o valor em ml de cerveja, para unidades de lata. E para não ficar um valor quebrado, utilizamos o método Math.ceil, para transformar em número inteiro do teto, e arredondar o valor. 
 
     
-    resultado.innerHTML += `<p>${Math.ceil(qdtTotalBebidas / 2000)} Garrafa(s) de Bebida(s)</p>`
+    resultado.innerHTML += `<p>${Math.ceil(qdtTotalBebidas / 2000)} Garrafa(s) de Refrigerante</p>`
     
     // 12 - Dentro da template string:  Na quantidade total de cerveja colocamos a variável divida por 2000, para transformar o valor em ml de bebidas, para unidades de garrafas. E para não ficar um valor quebrado, utilizamos o método Math.ceil, para transformar em número inteiro do teto, e arredondar o valor. 
 
