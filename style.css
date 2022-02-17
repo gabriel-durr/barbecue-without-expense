@@ -20,8 +20,9 @@ body {
     max-width: 700px;
     height:45rem;
     margin: 20px auto;
-    background-color: burlywood;
+    background-color: rgb(134, 83, 63);
     background-size:contain;
+    background-repeat: no-repeat ;
     padding: 20px;
     border-radius: 10px;
     background-image: url(./assets/churrasco-carton.jpg);
@@ -109,4 +110,59 @@ textarea:focus, input:focus {
     color: goldenrod;
     font-weight: bold;
     text-shadow: 10px 10px 10px black;
+}
+
+
+.creditos {
+    margin: 351px 0px 3px 184px;
+}
+
+.creditos-1{
+    color: black;
+    font-weight: bold;
+}
+
+.creditos-2{
+    color: goldenrod;
+}
+
+
+
+@media (max-width: 600px) {
+
+    .container {
+        max-width: 600px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       
+    }
+
+    .adultos {
+
+        width: 70%;
+        padding: 12px;
+        margin: 35px 110px -15px 105px;
+        
+    
+    }
+
+    .criancas {
+        margin: 35px 110px -15px 105px;
+    }
+
+
+    .duracao {
+        margin: 35px 110px -15px 105px;
+    }
+
+    .resultado {
+        margin-top: 20px;
+    }
+
+    .creditos{
+        margin: auto;
+    }
+
+
 }
