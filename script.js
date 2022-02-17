@@ -62,12 +62,12 @@ function calcular() {
 
     
     resultado.innerHTML += `<p>${Math.ceil(qdtTotalBebidas / 2000)} Garrafa(s) de Refrigerante</p>`
-    
+
     
     // 12 - Dentro da template string:  Na quantidade total de cerveja colocamos a variável divida por 2000, para transformar o valor em ml de bebidas, para unidades de garrafas. E para não ficar um valor quebrado, utilizamos o método Math.ceil, para transformar em número inteiro do teto, e arredondar o valor. 
 
 
-    //  - Após a primneira linha colocamos o += para não subistuir a linha anterior, que significa que estamos recebendo o anterior + o que estamos acrescentando
+    //  - Após a primneira linha colocamos o += para não subistuir a linha anterior, que significa que estamos recebendo o anterior + o que estamos acrescentando.
 
     console.log(qdtTotalCarne);
 
@@ -78,7 +78,7 @@ function calcular() {
 
 
 
-// 3-  Função para multiplicar a quantidade de carne por pessoa, com base no tempo do evento, se passar de 6 horas o valor é aumenta e então é criada uma condicional para isso.
+// 3 -  Função para multiplicar a quantidade de carne por pessoa, com base no tempo do evento, se passar de 6 horas o valor é aumenta e então é criada uma condicional para isso.
 
 function carnePP(duracao){
 
@@ -114,3 +114,4 @@ function bebidasPP(duracao){
         return 1000;
     }
 }
+
