@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #231F20;
+    background-color: #dfc0af;
 }
 
 
@@ -20,7 +20,7 @@ body {
     max-width: 700px;
     height:45rem;
     margin: 20px auto;
-    background-color: rgb(134, 83, 63);
+    background-color: rgba(255, 255, 255, 0.733);
     background-size:contain;
     background-repeat: no-repeat ;
     padding: 20px;
@@ -109,7 +109,7 @@ textarea:focus, input:focus {
     font-weight: bold;
     color: goldenrod;
     font-weight: bold;
-    text-shadow: 10px 10px 10px black;
+    text-shadow: 0px 2px 9px black;
 }
 
 
@@ -124,6 +124,8 @@ textarea:focus, input:focus {
 
 .creditos-2{
     color: goldenrod;
+    font-weight: bold;
+    
 }
 
 
