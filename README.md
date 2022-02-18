@@ -5,7 +5,7 @@
 
 
 
-<img align="right" src="https://i.imgur.com/btRkF91.png">
+<img align="center" src="https://i.imgur.com/btRkF91.png">
 
 <div align="center"  class="links">
     <a href="#the_challenge">Project</a> |
