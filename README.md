@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center" class="line-1 anim-typewriter">Churrasco💲em Custo</h1>
+<h1 align="left" class="line-1 anim-typewriter">Churrasco💲em Custo</h1>
 
 
 
