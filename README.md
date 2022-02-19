@@ -31,7 +31,7 @@ altera o valor do cálculo ao passar de 6 horas.</p>
 
 <h2 id="links">🔗 Links</h2>
 
-- Deploy Link: [https://gabriel-durr.github.io/churras/]()
+- [Deploy Link](https://gabriel-durr.github.io/churras/)
 
 
  <br><br>
