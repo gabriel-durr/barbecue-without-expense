@@ -15,7 +15,7 @@
 </div>
 
 
-<h2 id="the_challenge">⚡ Projeto  </h2>
+<h2 id="the_challenge">⚡ Project  </h2>
 
 
 <p> Desafio do Curso progBR, que se trata de uma cod simples que calcula o custo total de um churrasco, para treinar a lógica com JavaScript. </p>
