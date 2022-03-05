@@ -4,7 +4,6 @@
 <h1 align="center" class="line-1 anim-typewriter">Churrasco💲em Custo</h1>
 
 
-
 <img align="center" src="https://i.imgur.com/btRkF91.png">
 
 <div align="center"  class="links">
