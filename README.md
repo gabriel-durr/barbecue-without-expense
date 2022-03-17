@@ -21,7 +21,7 @@
 <h2 id="the_challenge">⚡ The Challenge  </h2>
 
 
-<p> Desafio do Curso progBR, que se trata de uma cod simples que calcula o custo total de um churrasco, para treinar a lógica com JavaScript. </p>
+<p> Desafio do Curso progBR, que se trata de uma cod que calcula o custo total de um churrasco, para treinar a lógica com JavaScript. </p>
 
 <p>Levando em consideração 
 a quantidade de de adultos, de crianças (vale pela metade), Refrigerantes, Cerveja (só vale para os Adultos).
