@@ -12,11 +12,11 @@
 
 <div align="center"  class="links">
     <a href="#the_challenge">challenge</a> |
-     <a href="#links">Links</a> |
       <a href="#built_with">Built with</a> |
        <a href="#author">Author</a> |
 </div>
 
+<br>
 
 <h2 id="the_challenge">⚡ The Challenge  </h2>
 
@@ -32,9 +32,6 @@ altera o valor do cálculo ao passar de 6 horas.</p>
 <br>
 
 
-<h2 id="links">🔗 Links</h2>
-
-- [Link of Project](https://gabriel-durr.github.io/churras/)
 
 
  <br><br>
