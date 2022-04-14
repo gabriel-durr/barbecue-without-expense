@@ -28,11 +28,22 @@ altera o valor do cálculo ao passar de 6 horas.</p>
  <br>
 <h2 id="built_with"> 🧙‍♂️ Built with</h2>
 
+<br>
 
--  <img class="icon" src="https://img.icons8.com/dusk/22/000000/javascript-logo.png"/>  Javascript
--  <img class="icon" src="https://img.icons8.com/dusk/22/000000/css3.png"/>   CSS3
--  <img class="icon" src="https://img.icons8.com/color/24/000000/html-5--v1.png"/>  HTML
+<div id="javascript">
+<img align="left" class="icon" src="https://img.icons8.com/dusk/22/000000/javascript-logo.png" width="34px"/>
+    <p align="left"><code><b>Javascript</b></code></p>
+</div>
 
+<div id="css3">
+<img align="left" class="icon" src="https://img.icons8.com/dusk/22/000000/css3.png" width="34px"/>
+    <p align="left"><code><b>CSS3</b></code></p>
+</div>
+
+<div id="html">
+<img  align="left" class="icon" src="https://img.icons8.com/color/24/000000/html-5--v1.png" width="40px"/>
+    <p  align="left"><code><b>HTML</b></code></p>
+</div>
 
 
 <br><br>
