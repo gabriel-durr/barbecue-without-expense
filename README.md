@@ -31,17 +31,17 @@ altera o valor do cálculo ao passar de 6 horas.</p>
 <br>
 
 <div id="javascript">
-<img align="left" class="icon" src="https://img.icons8.com/color/344/javascript--v2.png" width="36px"/>
+<img align="left" class="icon" src="https://img.icons8.com/color/344/javascript--v2.png" width="34px"/>
     <p align="left"><code><b>Javascript</b></code></p>
 </div>
 
 <div id="css3">
-<img align="left" class="icon" src="https://img.icons8.com/dusk/22/000000/css3.png" width="34px"/>
+<img align="left" class="icon" src="https://img.icons8.com/dusk/22/000000/css3.png" width="32px"/>
     <p align="left"><code><b>CSS3</b></code></p>
 </div>
 
 <div id="html">
-<img  align="left" class="icon" src="https://img.icons8.com/dusk/64/000000/html-5.png" width="34px"/>
+<img  align="left" class="icon" src="https://img.icons8.com/dusk/64/000000/html-5.png" width="32px"/>
     <p  align="left"><code><b>HTML</b></code></p>
 </div>
 
