@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center" class="line-1 anim-typewriter"> Project ☄️ </h1>
+<h1 align="center" class="line-1 anim-typewriter"> Churras.. [study project] </h1>
 
 <div  align="center">
 
