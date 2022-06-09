@@ -11,14 +11,14 @@
 
 
 <div align="center"  class="links">
-    <a href="#Project">challenge</a> |
+    <a href="#project">Project</a> |
       <a href="#built_with">Built with</a> |
        <a href="#author">Author</a> |
 </div>
 
 <br><br>
 
-<h2 id="Project"  align="center">⚡ The Project  </h2>
+<h2 id="project"  align="center">⚡ The Project  </h2>
 
 
 <p  align="center"> Desafio do Curso progBR, que se trata de uma cod que calcula o custo total de um churrasco, para treinar a lógica com JavaScript. Levando em consideração a quantidade de de adultos, de crianças (vale pela metade), Refrigerantes, Cerveja (só vale para os Adultos)... a duração do evento também 
