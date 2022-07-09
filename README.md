@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<p> Desafio do Curso progBR. "Criar uma calculadora, do custo total de um churrasco". Levando em consideração a quantidade de de adultos e crianças, alguns produtos serão apenas para adultos. A duração do evento também altera o valor do cálculo</p>
+<p>Challenge of the progBR Course. "Create a calculator, of the total cost of a barbecue". Considering the amount of adults and children, some products will be for adults only. The event duration also changes the calculation value</p>
 
 </div>
 
