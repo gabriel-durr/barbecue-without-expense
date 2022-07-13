@@ -5,7 +5,7 @@
 // Crianças Valem por 0,5
 
 
-// 1- pegar os ids dos inputs
+// 1- pegar os ids dos inputs..
 
 let inputAdultos = document.getElementById("adultos");
 let inputCriancas = document.getElementById("criancas")
